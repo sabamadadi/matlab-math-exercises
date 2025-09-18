@@ -1,4 +1,4 @@
-# 📘 Mathematical Software I – MATLAB Practice Report
+# 📘 Mathematical Software I – MATLAB
 
 This repository contains a collection of exercises completed for the **Mathematical Software I** course.  
 The tasks focus on applying MATLAB (with Symbolic Math Toolbox) to solve mathematical problems, visualize functions, and explore symbolic computation.
