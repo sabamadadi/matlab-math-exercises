@@ -13,6 +13,11 @@ The exercises included in this repository cover the following topics:
 3. **Function visualization** – Plotting trigonometric functions within a given interval.  
 4. **Piecewise functions and limits** – Defining piecewise functions and computing limits.  
 5. **Trigonometric transformations** – Plotting `cot(x) - x` over a defined range.  
+
+<p align="center">
+  <img src="cot(x)-x.png" width="300">
+</p>
+
 6. **Root finding** – Using numerical methods (`fzero`) to approximate roots of nonlinear functions.  
 7. **Derivatives and polynomials** – Differentiation, polynomial manipulation, and root calculation.  
 8. **Angle conversion** – Converting degrees to radians programmatically.
