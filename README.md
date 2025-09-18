@@ -31,7 +31,7 @@ The exercises included in this repository cover the following topics:
 ---
 
 ## 🚀 How to Use
-1. Clone the repository:
+1. Clone the repository.
 2. Open MATLAB.
 3. Run the provided script file to test each exercise.
 
